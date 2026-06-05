@@ -1,0 +1,44 @@
+[
+  {
+    "id": "leave_c94eff00",
+    "doctorId": "doc_001",
+    "startDate": "2025-11-25",
+    "endDate": "2025-11-25",
+    "reason": "Unavaialble",
+    "status": "CANCELLED",
+    "affectedSlots": [
+      "slot_f8c3a43d",
+      "slot_224ac126",
+      "slot_54fb3a83"
+    ],
+    "affectedAppointments": [
+      "apt_39a8c018"
+    ],
+    "createdAt": "2025-11-24T12:17:49.502Z",
+    "updatedAt": "2025-11-27T18:05:59.196Z"
+  },
+  {
+    "id": "leave_69bab03b",
+    "doctorId": "doc_001",
+    "startDate": "2025-11-28",
+    "endDate": "2025-11-28",
+    "reason": "fyoihgfyuijhgfcghujg",
+    "status": "CANCELLED",
+    "affectedSlots": [
+      "slot_16dc6c44",
+      "slot_1912c43d",
+      "slot_3cf149df",
+      "slot_941bde60",
+      "slot_e9ef04cc",
+      "slot_621b722e",
+      "slot_b8a34f62",
+      "slot_c5ff2546"
+    ],
+    "affectedAppointments": [
+      "apt_0407520e",
+      "apt_0968f7dc"
+    ],
+    "createdAt": "2025-11-27T16:27:58.865Z",
+    "updatedAt": "2025-11-27T18:05:39.551Z"
+  }
+]

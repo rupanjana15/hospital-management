@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "2ec6ee10-0898-496f-9c26-a825ebe0436d",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john.doe@example.com",
+      "reason": "Email not found"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:31:49.818Z"
+  },
+  {
+    "id": "57041c43-8cc4-441a-bdf7-a28b95ad8cfb",
+    "action": "LOGIN",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:32:15.057Z"
+  },
+  {
+    "id": "eb8e6ecf-99c6-4564-8ead-94b0eb9690c6",
+    "action": "LOGIN_FAILED",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:33:31.867Z"
+  },
+  {
+    "id": "98f1c4d9-6642-4e3d-a202-a78ffa3262dd",
+    "action": "LOGIN_FAILED",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:33:33.115Z"
+  },
+  {
+    "id": "4cb7b08a-4512-4ec6-b905-d00102e98637",
+    "action": "LOGIN_FAILED",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:33:33.982Z"
+  },
+  {
+    "id": "306ae965-9e86-4210-a589-2adfbb446232",
+    "action": "LOGIN_FAILED",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:33:34.726Z"
+  },
+  {
+    "id": "769e622d-26fe-46f7-ab7b-5a0953957998",
+    "action": "LOGIN_FAILED",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T17:33:35.465Z"
+  },
+  {
+    "id": "3cf258e3-80bc-4c1a-9439-34da218cce2e",
+    "action": "LOGIN",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:01:36.013Z"
+  },
+  {
+    "id": "63d7608c-e7f3-4392-8daf-4fceaf94b3c3",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0f602d47-85ac-4538-bc1e-a488a70b9776",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kuma@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:02:30.311Z"
+  },
+  {
+    "id": "65e42d86-2f0a-452f-922b-47124802c1fa",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0f602d47-85ac-4538-bc1e-a488a70b9776",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kuma@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:03:06.536Z"
+  },
+  {
+    "id": "342eea5d-6fd7-4299-949e-368d9acc8ea2",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0f602d47-85ac-4538-bc1e-a488a70b9776",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kuma@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:03:08.006Z"
+  },
+  {
+    "id": "24d78adc-77f7-4398-987d-79073bbbadae",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0f602d47-85ac-4538-bc1e-a488a70b9776",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kuma@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:03:08.929Z"
+  },
+  {
+    "id": "be914983-c2d8-4579-b793-e0b197f6a57f",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0f602d47-85ac-4538-bc1e-a488a70b9776",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kuma@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:03:14.946Z"
+  },
+  {
+    "id": "701b782d-1850-4833-b1dd-2c0088407724",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kuma@hospital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:03:58.276Z"
+  },
+  {
+    "id": "6536d416-87f7-404e-9886-9c03931ff5c3",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Account rejected"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:04:09.036Z"
+  },
+  {
+    "id": "58550b6c-e790-43ae-bc11-0c8174196724",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Account rejected"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:04:31.892Z"
+  },
+  {
+    "id": "4b69d0cf-bed7-4669-82bf-6bde54d27ec1",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Account rejected"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:04:37.418Z"
+  },
+  {
+    "id": "bb3a12b6-3774-42bd-a718-b09868beb3fc",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Account rejected"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:07:11.210Z"
+  },
+  {
+    "id": "4e55cebf-8f36-4b87-9a3a-e7cdb659a4aa",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:07:50.306Z"
+  },
+  {
+    "id": "e584b66e-efa4-4cbd-b458-538281a9af53",
+    "action": "LOGIN_FAILED",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:08:06.964Z"
+  },
+  {
+    "id": "44a3472f-e1e2-4394-a442-fa5092a7e318",
+    "action": "LOGIN",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:08:18.232Z"
+  },
+  {
+    "id": "10d0f2b7-5794-43db-9876-a910fa5dbcf4",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hoital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:08:32.511Z"
+  },
+  {
+    "id": "2541ca24-c112-418c-9e1a-10c23664e71f",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:19:26.766Z"
+  },
+  {
+    "id": "08efff64-4393-4f96-8f75-fe02c5b2125b",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:19:47.016Z"
+  },
+  {
+    "id": "0dc7d594-c2c1-4149-b285-c1166a6a2373",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:20:07.457Z"
+  },
+  {
+    "id": "a927a5e0-885f-4581-b2f1-22ac017d116e",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hosital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:20:30.095Z"
+  },
+  {
+    "id": "8a38d1f8-4dee-463d-bfe8-5170aae40d08",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hosital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:20:35.542Z"
+  },
+  {
+    "id": "f3172cd3-ee3c-45cc-ad9d-96d6a28a02df",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:20:45.172Z"
+  },
+  {
+    "id": "2a11a211-9a70-473e-8fd6-2bd85cac37f4",
+    "action": "LOGIN",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:45:41.657Z"
+  },
+  {
+    "id": "5a22045c-877a-4f6d-b167-70c117ade154",
+    "action": "PROFILE_UPDATE",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "changedFields": [
+        {
+          "field": "fullName",
+          "oldValue": "John Doe",
+          "newValue": "John William Doe"
+        },
+        {
+          "field": "dateOfBirth",
+          "oldValue": "1990-01-01",
+          "newValue": "1990-05-15"
+        },
+        {
+          "field": "address",
+          "oldValue": "123 Main St",
+          "newValue": "456 New Street, City"
+        },
+        {
+          "field": "bloodGroup",
+          "oldValue": null,
+          "newValue": "O+"
+        }
+      ]
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.0",
+    "timestamp": "2025-11-22T19:47:25.363Z"
+  },
+  {
+    "id": "e3ba2491-546f-4f89-8420-55eab050ed30",
+    "action": "LOGIN",
+    "performedBy": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "john@example.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:11:21.523Z"
+  },
+  {
+    "id": "7ec8d86c-aad5-44e0-8d8b-8fd902919d00",
+    "action": "LOGIN",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:22:09.828Z"
+  },
+  {
+    "id": "f3df8eb6-34d7-4bf6-a504-e03e7769de0a",
+    "action": "LOGIN",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:22:15.101Z"
+  },
+  {
+    "id": "437a38e8-e504-4ce0-aea1-2942a46bceb7",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:22:36.732Z"
+  },
+  {
+    "id": "31351ad5-fcbf-4777-853e-785382d4f31d",
+    "action": "LOGIN",
+    "performedBy": "0779e9c3-b310-425e-9888-d03f6d1e71c1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "rajesh.kumar@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:22:45.273Z"
+  },
+  {
+    "id": "f75a8530-6b7a-439f-ade3-ad762fdb3425",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hosital.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:27:45.182Z"
+  },
+  {
+    "id": "607fa5f9-e1b4-47e7-aec2-8bb53220b3f5",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "PostmanRuntime/7.49.1",
+    "timestamp": "2025-11-23T03:27:54.966Z"
+  },
+  {
+    "id": "c8100a02-6594-4847-988c-a3ceb7e0d8ba",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@gmail.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:40:07.458Z"
+  },
+  {
+    "id": "70227e54-d5dd-4291-8c6f-8aeac416af39",
+    "action": "LOGIN_FAILED",
+    "performedBy": "UNKNOWN",
+    "performedByRole": "UNKNOWN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@gmail.com",
+      "reason": "Email not found in any repository"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:40:15.842Z"
+  },
+  {
+    "id": "9d2941e1-bcce-47a8-8187-081d2c55f270",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:40:25.883Z"
+  },
+  {
+    "id": "135217bf-2868-404f-8a6a-f7b98327e347",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:43:30.770Z"
+  },
+  {
+    "id": "896dcbfa-a409-4aee-9872-284afb63a5d5",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:45:41.172Z"
+  },
+  {
+    "id": "8f00329f-f24c-4c9a-86ea-5f03edf24cfd",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:48:46.634Z"
+  },
+  {
+    "id": "76312962-fc3d-472c-971c-d31970dce67e",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:49:25.129Z"
+  },
+  {
+    "id": "5cd3f529-f4f9-49a0-a746-ee8e530ccdf3",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:49:55.015Z"
+  },
+  {
+    "id": "9e1aed87-f5a6-4294-b117-91a0d1249733",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:50:35.240Z"
+  },
+  {
+    "id": "b871e6f8-78f0-4158-a06e-31d18ad64081",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:52:28.933Z"
+  },
+  {
+    "id": "226eba55-3ca3-4ae4-9637-a127b31f6a5e",
+    "action": "LOGIN",
+    "performedBy": "936355d2-cf8d-4f3c-a178-c582999b77f1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:53:53.896Z"
+  },
+  {
+    "id": "2e78fcd0-5ae5-4385-9f6b-2890e0d74269",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:54:34.401Z"
+  },
+  {
+    "id": "81111ec7-0a69-47e7-a15d-6e7c7a4f5e84",
+    "action": "LOGIN",
+    "performedBy": "936355d2-cf8d-4f3c-a178-c582999b77f1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:54:53.223Z"
+  },
+  {
+    "id": "559b2bff-47f3-46c4-b640-b22c06d227c2",
+    "action": "LOGIN_FAILED",
+    "performedBy": "936355d2-cf8d-4f3c-a178-c582999b77f1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad@gmail.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T11:56:30.324Z"
+  },
+  {
+    "id": "9e7b4315-8bc2-4119-89bb-ded1f7bd54e4",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T12:25:19.879Z"
+  },
+  {
+    "id": "4c9987c3-8be5-429e-b6ce-cf1ec0c5ac86",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T12:35:21.555Z"
+  },
+  {
+    "id": "615962de-ac5b-43be-9ec4-fd5317b0563e",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T12:37:41.641Z"
+  },
+  {
+    "id": "03314946-8537-43cf-bc53-0080ac736f79",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T12:38:42.349Z"
+  },
+  {
+    "id": "f3b600bb-b278-4915-92d4-ffb4f445cddd",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T15:54:26.937Z"
+  },
+  {
+    "id": "7b34b235-8734-46b7-a992-298a993001d0",
+    "action": "PROFILE_UPDATE",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "changedFields": [
+        {
+          "field": "fullName",
+          "oldValue": "Babu Prasad",
+          "newValue": "Babu Prasad R"
+        },
+        {
+          "field": "bloodGroup",
+          "oldValue": null,
+          "newValue": "AB+"
+        }
+      ]
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T15:54:52.623Z"
+  },
+  {
+    "id": "8f5c8292-5cc7-4008-a261-8b213d8e89d9",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T16:13:41.742Z"
+  },
+  {
+    "id": "050494e1-2763-4f93-b3b2-1049abd364b9",
+    "action": "LOGIN_FAILED",
+    "performedBy": "936355d2-cf8d-4f3c-a178-c582999b77f1",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad@gmail.com",
+      "reason": "Account pending approval"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T16:14:06.123Z"
+  },
+  {
+    "id": "1c93cba7-bdff-457c-b6d4-655db78e78af",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T16:17:39.354Z"
+  },
+  {
+    "id": "8a44faf4-1b01-473d-90e2-e3a14fe8d45d",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T16:17:58.302Z"
+  },
+  {
+    "id": "1b55319d-4bbc-4eb2-95de-951d20e18e60",
+    "action": "LOGIN_FAILED",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T17:48:47.355Z"
+  },
+  {
+    "id": "1af63635-0f38-4ff4-abf7-0afb8dc8fe33",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-23T17:48:52.844Z"
+  },
+  {
+    "id": "7221ca59-5de3-4399-ab8c-07b8dff4c308",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T04:19:19.404Z"
+  },
+  {
+    "id": "e92fbe92-ce0c-4886-b8e0-8f95f4e4cbc5",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T04:28:17.360Z"
+  },
+  {
+    "id": "0da19e49-ae61-418e-a7f9-e49d0e4db1cf",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_001",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:28:12.730Z"
+  },
+  {
+    "id": "a2167566-894f-4bec-bdbf-ef60abcb16b1",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_005",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:28:30.639Z"
+  },
+  {
+    "id": "6eefcd2f-9803-4ad2-b9cf-a5b1c931f762",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_005",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:28:51.303Z"
+  },
+  {
+    "id": "5f192d85-94b6-44de-9edb-159b148744af",
+    "action": "SPECIALIZATION_CREATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_5c43372d",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:30:11.290Z"
+  },
+  {
+    "id": "91e764b8-278a-451f-b84a-494cfe2b8532",
+    "action": "SPECIALIZATION_DELETE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_001",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:30:33.556Z"
+  },
+  {
+    "id": "17b289ba-b377-4b49-97e4-7530d9f00d0d",
+    "action": "SPECIALIZATION_CREATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:34:46.068Z"
+  },
+  {
+    "id": "bac17320-81c5-4ab8-915e-4bdcf3bac412",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:34:57.887Z"
+  },
+  {
+    "id": "86778c7e-4a22-4eee-9321-447286609e74",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:35:01.385Z"
+  },
+  {
+    "id": "a67c20ae-6580-4503-a656-438467deaa5c",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:35:18.251Z"
+  },
+  {
+    "id": "7310bc1e-6c86-4fbc-83bf-ee166cffcd74",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_001",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:35:35.681Z"
+  },
+  {
+    "id": "c97539b6-7355-4b11-9196-8e95f3df3a87",
+    "action": "SPECIALIZATION_DELETE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:35:56.846Z"
+  },
+  {
+    "id": "bd2149fe-f919-4685-ae8b-7c51eac396c5",
+    "action": "SPECIALIZATION_DELETE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:36:02.825Z"
+  },
+  {
+    "id": "4113121b-f9e7-4e87-b5ae-c2b74a963149",
+    "action": "SPECIALIZATION_CREATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_cbdd9fbd",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:37:04.140Z"
+  },
+  {
+    "id": "619dfbeb-a0fd-4ec7-8fcd-2be60de1f4f2",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_cbdd9fbd",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:37:08.227Z"
+  },
+  {
+    "id": "895ff12b-d7c1-4fb0-b02a-f682411a0206",
+    "action": "SPECIALIZATION_DELETE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_c625343f",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:38:10.187Z"
+  },
+  {
+    "id": "6a2c0349-80cc-43fe-b547-e1beba0d5dab",
+    "action": "SPECIALIZATION_DELETE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_001",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-24T06:40:44.908Z"
+  },
+  {
+    "id": "2a666f07-fccf-4864-bdb2-b2618ed2ba90",
+    "action": "PATIENT_STATUS_TOGGLE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "patientId": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+      "oldStatus": "ACTIVE",
+      "newStatus": "INACTIVE"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T07:05:08.385Z"
+  },
+  {
+    "id": "6bb49c85-88d4-4852-a994-e7137aa5e9cc",
+    "action": "PATIENT_STATUS_TOGGLE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "patientId": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+      "oldStatus": "INACTIVE",
+      "newStatus": "ACTIVE"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T07:05:14.598Z"
+  },
+  {
+    "id": "79240fa8-fecd-41ba-be4a-896497e627c8",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T08:26:40.369Z"
+  },
+  {
+    "id": "af8d558e-f645-4be5-8b90-1a68f537d8d8",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T08:28:20.659Z"
+  },
+  {
+    "id": "474971f5-cca3-4e65-97a3-233a6ec76ce9",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T08:40:07.238Z"
+  },
+  {
+    "id": "6ff12b74-031e-4e18-9502-7ab306edd4a7",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T10:51:35.080Z"
+  },
+  {
+    "id": "8a3b82d9-c93e-40fe-b45c-991444d2baf7",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T10:53:45.954Z"
+  },
+  {
+    "id": "5465f016-b455-4916-960f-c76c1f690ed9",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T10:59:41.806Z"
+  },
+  {
+    "id": "ef37c6f4-1ef1-4133-93eb-0e55a70c7344",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T11:21:57.749Z"
+  },
+  {
+    "id": "122b6b2f-3759-401f-907d-56b2c7097fc7",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T11:48:59.946Z"
+  },
+  {
+    "id": "90b94e7b-66f3-47a6-bd25-60afbc46e25b",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T12:07:24.957Z"
+  },
+  {
+    "id": "15a2c8f1-3211-4574-bb3e-e81e96e6de23",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-24T12:18:13.235Z"
+  },
+  {
+    "id": "25b43bb7-f406-43fc-a71e-a17be0c9a213",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T00:18:09.563Z"
+  },
+  {
+    "id": "185ddf38-714d-4296-97b3-6c518ceb7e42",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T00:20:40.162Z"
+  },
+  {
+    "id": "8a5d3237-18bb-40a0-a435-23ceb51a6c01",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T00:21:32.662Z"
+  },
+  {
+    "id": "cd4c13ad-3489-4f46-9706-033f52ae7e06",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T02:05:19.303Z"
+  },
+  {
+    "id": "d6cdd632-59d7-4c22-935e-834eb9743208",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T15:18:18.063Z"
+  },
+  {
+    "id": "b04cf16e-b92d-4d37-8471-c3f46a29c922",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T15:30:29.145Z"
+  },
+  {
+    "id": "05e6b2c2-5b80-4964-aee0-8327ab21e525",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-25T15:50:52.034Z"
+  },
+  {
+    "id": "10c17d79-da9c-449d-aab8-3f68fe32293f",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::ffff:127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T14:32:23.196Z"
+  },
+  {
+    "id": "711c567f-724a-4e99-b2dc-dd2eed8e5ec2",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T15:33:56.654Z"
+  },
+  {
+    "id": "f882663a-a409-44d1-b908-c43a27e0d485",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T16:10:54.845Z"
+  },
+  {
+    "id": "d25d9f7c-4375-4679-b3de-3938caaf0bd9",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T16:11:46.543Z"
+  },
+  {
+    "id": "77d6933f-4f9a-48ca-b3ff-fda405cb95e7",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T16:13:53.822Z"
+  },
+  {
+    "id": "01b3cda4-ed89-48f6-9ada-a603e424fbb3",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T16:23:51.239Z"
+  },
+  {
+    "id": "6e03fbaa-25a4-4615-b389-739ad98e6a54",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T16:27:31.592Z"
+  },
+  {
+    "id": "55b48420-d1cd-4712-a948-692c090b437c",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T17:14:59.132Z"
+  },
+  {
+    "id": "926bc44b-db68-4b76-987d-8e868820f5b0",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T17:14:59.813Z"
+  },
+  {
+    "id": "03215134-6bd1-42af-8313-b439036af184",
+    "action": "LOGIN_FAILED",
+    "performedBy": "doc_002",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "sneha.n@hospital.com",
+      "reason": "Account inactive"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T17:38:47.774Z"
+  },
+  {
+    "id": "1f795102-8e90-4949-b965-7ce22f24ac9e",
+    "action": "LOGIN",
+    "performedBy": "doc_002",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "sneha.n@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T17:38:56.631Z"
+  },
+  {
+    "id": "3e71e9d9-7b6f-4622-915c-26fed8a3efcb",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T18:01:17.042Z"
+  },
+  {
+    "id": "d2ca4c7c-0b73-46a1-94d0-27db502dd5a6",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T18:12:29.047Z"
+  },
+  {
+    "id": "ed5fdc53-f509-4a88-beef-0ed686ca8fd7",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T18:29:33.473Z"
+  },
+  {
+    "id": "af09682a-9aa6-41b4-8bd5-1a72aec6cdd1",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-27T18:31:19.940Z"
+  },
+  {
+    "id": "2e9ca4cc-2c53-4e56-87e8-cd862386ab1d",
+    "action": "LOGIN_FAILED",
+    "performedBy": "c685bf3a-558b-4b68-bb5d-cecd8ed8d43e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "hema@gmail.com",
+      "reason": "Invalid password"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:09:35.757Z"
+  },
+  {
+    "id": "1b41950a-dd2e-4c30-8693-63eada34109c",
+    "action": "LOGIN",
+    "performedBy": "c685bf3a-558b-4b68-bb5d-cecd8ed8d43e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "hema@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:09:41.038Z"
+  },
+  {
+    "id": "22a2fcd7-ed9a-484d-97d3-adcf079d335c",
+    "action": "LOGIN",
+    "performedBy": "c685bf3a-558b-4b68-bb5d-cecd8ed8d43e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "hema@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:21:54.679Z"
+  },
+  {
+    "id": "9fab02fd-bf45-46e7-b0f6-74e6d90cd2be",
+    "action": "LOGIN",
+    "performedBy": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "babuprasad784@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:22:08.373Z"
+  },
+  {
+    "id": "151c0b66-6fcb-4a88-b4c7-2c8235da6b8f",
+    "action": "LOGIN",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "admin@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:31:13.622Z"
+  },
+  {
+    "id": "06ba8139-bf9d-4e56-a14c-6492ce90ec4e",
+    "action": "SPECIALIZATION_DELETE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_5c43372d",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-30T18:33:25.617Z"
+  },
+  {
+    "id": "664eaee6-42e1-4f3a-b46b-33afe167838c",
+    "action": "SPECIALIZATION_UPDATE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": "spec_001",
+    "metadata": {},
+    "ipAddress": null,
+    "userAgent": null,
+    "timestamp": "2025-11-30T18:33:57.775Z"
+  },
+  {
+    "id": "5ca0963d-f7e0-4e6c-b950-59db9aa770da",
+    "action": "PATIENT_STATUS_TOGGLE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "patientId": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+      "oldStatus": "ACTIVE",
+      "newStatus": "INACTIVE"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:49:29.351Z"
+  },
+  {
+    "id": "8cb7a0b9-b974-4087-a11a-430dac7d9fdd",
+    "action": "PATIENT_STATUS_TOGGLE",
+    "performedBy": "admin_regular_001",
+    "performedByRole": "ADMIN",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "patientId": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+      "oldStatus": "INACTIVE",
+      "newStatus": "ACTIVE"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:49:43.075Z"
+  },
+  {
+    "id": "d65d623c-3a57-4c0d-9216-8b39db6a5d97",
+    "action": "LOGIN",
+    "performedBy": "c685bf3a-558b-4b68-bb5d-cecd8ed8d43e",
+    "performedByRole": "PATIENT",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "hema@gmail.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:56:54.834Z"
+  },
+  {
+    "id": "28791a6a-8927-486d-9cd8-cd5df9526e18",
+    "action": "LOGIN",
+    "performedBy": "doc_001",
+    "performedByRole": "DOCTOR",
+    "targetEntity": null,
+    "targetId": null,
+    "metadata": {
+      "email": "ajay.menon@hospital.com"
+    },
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-11-30T18:57:35.961Z"
+  }
+]

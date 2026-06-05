@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2cd53360-4931-4fb8-afdf-8bf3de80800e",
+    "fullName": "John William Doe",
+    "email": "john@example.com",
+    "phone": "+911234567890",
+    "passwordHash": "$2a$10$m7liOz7EWKAy4xVxvC5A4.v4LVIf7haa500gtqFqKc.uTOedSZmDS",
+    "dateOfBirth": "1990-05-15",
+    "gender": "MALE",
+    "address": "456 New Street, City",
+    "bloodGroup": "O+",
+    "status": "ACTIVE",
+    "createdAt": "2025-11-22T17:04:12.456Z",
+    "updatedAt": "2025-11-30T18:49:43.071Z",
+    "lastLoginAt": "2025-11-23T03:11:21.516Z"
+  },
+  {
+    "id": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "fullName": "Babu Prasad R",
+    "email": "babuprasad784@gmail.com",
+    "phone": "6379340409",
+    "passwordHash": "$2a$10$HRi5.j7s5kFL5D3Yoz5dGuOy/.W6Qs2GxB5TIJRRWb.UgITO5CdzW",
+    "dateOfBirth": "2003-11-27",
+    "gender": "MALE",
+    "address": "India",
+    "bloodGroup": "AB+",
+    "status": "ACTIVE",
+    "createdAt": "2025-11-23T11:43:23.146Z",
+    "updatedAt": "2025-11-30T18:22:08.367Z",
+    "lastLoginAt": "2025-11-30T18:22:08.367Z"
+  },
+  {
+    "id": "c685bf3a-558b-4b68-bb5d-cecd8ed8d43e",
+    "fullName": "Hema",
+    "email": "hema@gmail.com",
+    "phone": "8072253699",
+    "passwordHash": "$2a$10$A3CzEuSCgUelaQulAkOGAOhbGdoTx2HPJpoVAX7xgLubRZ0rJSnW6",
+    "dateOfBirth": null,
+    "gender": "NOT_SPECIFIED",
+    "address": "",
+    "bloodGroup": null,
+    "status": "ACTIVE",
+    "createdAt": "2025-11-30T18:09:13.975Z",
+    "updatedAt": "2025-11-30T18:56:54.829Z",
+    "lastLoginAt": "2025-11-30T18:56:54.829Z"
+  }
+]

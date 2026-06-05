@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin_super_001",
+    "fullName": "Super Administrator",
+    "email": "superadmin@hospital.com",
+    "passwordHash": "$2a$10$D1VBt32m1ZqJtaTfjzpMj.HKTN7UbLm2s9wk1jW6I4sbf8w3aiOdu",
+    "role": "SUPER_ADMIN",
+    "status": "ACTIVE",
+    "createdAt": "2025-11-23T00:00:00.000Z",
+    "updatedAt": "2025-11-23T00:00:00.000Z"
+  },
+  {
+    "id": "admin_regular_001",
+    "fullName": "Hospital Administrator",
+    "email": "admin@hospital.com",
+    "passwordHash": "$2a$10$Nu1Llc40HBc5X0SLhQNMDuyuZm5pCEcF/ecDTSJe/MW5SrsFmqXVq",
+    "role": "ADMIN",
+    "status": "ACTIVE",
+    "createdAt": "2025-11-23T00:00:00.000Z",
+    "updatedAt": "2025-11-30T18:31:13.616Z"
+  }
+]

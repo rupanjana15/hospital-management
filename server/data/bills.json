@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bill_07e2af09",
+    "appointmentId": "apt_9aa7e25c",
+    "patientId": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "doctorId": "doc_001",
+    "amount": 1800,
+    "status": "PAID",
+    "createdAt": "2025-11-25T01:37:29.256Z",
+    "updatedAt": "2025-11-25T01:59:41.733Z",
+    "paymentMethod": "CREDIT_CARD",
+    "transactionRef": null
+  },
+  {
+    "id": "bill_fc53b53e",
+    "appointmentId": "apt_baeb7e6e",
+    "patientId": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "doctorId": "doc_001",
+    "amount": 1800,
+    "status": "PAID",
+    "createdAt": "2025-11-27T17:34:57.521Z",
+    "updatedAt": "2025-11-30T18:22:57.192Z",
+    "paymentMethod": "CREDIT_CARD",
+    "transactionRef": null
+  },
+  {
+    "id": "bill_db2d54b7",
+    "appointmentId": "apt_0407520e",
+    "patientId": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "doctorId": "doc_001",
+    "amount": 1800,
+    "status": "PAID",
+    "createdAt": "2025-11-27T17:44:47.072Z",
+    "updatedAt": "2025-11-30T18:22:44.350Z",
+    "paymentMethod": "CREDIT_CARD",
+    "transactionRef": null
+  },
+  {
+    "id": "bill_56cfe878",
+    "appointmentId": "apt_49ba083b",
+    "patientId": "b9b3204e-75b4-4bd1-a442-5e402032963c",
+    "doctorId": "doc_001",
+    "amount": 1800,
+    "status": "PENDING",
+    "createdAt": "2025-11-27T17:44:58.584Z",
+    "updatedAt": "2025-11-27T17:44:58.584Z",
+    "paymentMethod": null,
+    "transactionRef": null
+  }
+]
