@@ -21,7 +21,7 @@ const RATE_LIMIT_CONFIG = {
  * Clean up expired entries periodically (every 5 minutes)
  * Prevents memory leaks from abandoned IP addresses
  */
-setInterval(() => {
+const cleanupTimer = setInterval(() => {
   const now = Date.now();
   for (const [ip, data] of loginAttempts.entries()) {
     if (data.resetAt < now) {
@@ -29,6 +29,8 @@ setInterval(() => {
     }
   }
 }, 5 * 60 * 1000);
+// Don't keep the Node process alive just for this housekeeping timer
+cleanupTimer.unref();
 
 /**
  * Rate limiting middleware for login attempts
